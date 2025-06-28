@@ -36,5 +36,12 @@ clearBtn.addEventListener('click', () => {
 
 
 
+
+
 });
+
+
+
+});
+
 
